@@ -80,7 +80,7 @@ I'm a passionate **Full Stack Developer** who loves crafting scalable web applic
 -->
 
 ---
-
+<!--
 ## 🌱 Current Learning Journey
 
 ```javascript
@@ -94,6 +94,7 @@ const sudarshan = {
     funFact: "I believe every bug is just an undocumented feature! 🐛➡️✨"
 };
 ```
+-->
 
 ---
 
